@@ -6,3 +6,6 @@ description: Personal Website
 show_downloads: true
 # google_analytics: [Your Google Analytics tracking ID]
 
+github:
+  zip_url: http://www.asefidgar.ir/other/Resume.Asefidgar.29.mhr.1396.pdf
+  another_url: another value
